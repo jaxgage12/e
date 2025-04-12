@@ -1,0 +1,13 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAACZmZm5u8vMzJmZmZm7u8zMmZmZubvLzMyZmZm7u8zMzKqqqqq7u8zMqqqqurvLzMyqqqqqu7vMzKqqqrq7y8zMmZmZzLu7u7uZmZnJu7u7u5mZmZm7u7u7mZmZybu7u7uqqqrKu7u7u6qqqqq7u7u7qqqqyru7u7uqqqqqu7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}

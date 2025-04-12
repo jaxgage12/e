@@ -1,0 +1,46 @@
+{
+    "name": "e",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#000000",
+        "#0000AA",
+        "#5555FF",
+        "#AAAAFF",
+        "#FFFFFF",
+        "#AA5500",
+        "#FF5722",
+        "#FFAA55",
+        "#DDFF00",
+        "#20E210",
+        "#441100",
+        "#FFAA00",
+        "#AA4400",
+        "#000000",
+        "#AAAAFF"
+    ]
+}
